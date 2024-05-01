@@ -12,6 +12,9 @@ Travis CI : [![Build Status](https://secure.travis-ci.org/hexgnu/linkedin.png)](
 
 [http://rdoc.info/gems/linkedin](http://rdoc.info/gems/linkedin)
 
+[https://www.rubydoc.info/gems/linkedin/1.1.1](https://www.rubydoc.info/gems/linkedin/1.1.1)
+
+
 ## Usage
 
 [View the Examples](EXAMPLES.md)
